@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-01T15:04:34 IST" name="Default suite" finished-at="2024-01-01T15:04:39 IST" duration-ms="4950">
+    <groups>
+    </groups>
+    <test started-at="2024-01-01T15:04:34 IST" name="Default test" finished-at="2024-01-01T15:04:39 IST" duration-ms="4950">
+      <class name="com.testclasses.GitHubRepoAutomation">
+        <test-method signature="createRepoTest()[pri:1, instance:com.testclasses.GitHubRepoAutomation@1e178745]" started-at="2024-01-01T15:04:34 IST" name="createRepoTest" finished-at="2024-01-01T15:04:37 IST" duration-ms="3028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRepoTest -->
+        <test-method signature="getRepos()[pri:2, instance:com.testclasses.GitHubRepoAutomation@1e178745]" started-at="2024-01-01T15:04:37 IST" name="getRepos" finished-at="2024-01-01T15:04:38 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRepos -->
+        <test-method signature="updateAndDeleteRequest()[pri:3, instance:com.testclasses.GitHubRepoAutomation@1e178745]" started-at="2024-01-01T15:04:38 IST" name="updateAndDeleteRequest" finished-at="2024-01-01T15:04:39 IST" duration-ms="1360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAndDeleteRequest -->
+      </class> <!-- com.testclasses.GitHubRepoAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
